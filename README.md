@@ -18,10 +18,10 @@
 
 **Languages & Frameworks**
 
-![Python](https://skillicons.dev/icons?i=python) &nbsp;
-![Pytorch](https://skillicons.dev/icons?i=pytorch) &nbsp;
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow) &nbsp;
-![LangChain](https://img.shields.io/badge/-LangChain-0A0A0A?logo=chainlink&logoColor=white) &nbsp;
+![Python](https://skillicons.dev/icons?i=python)
+![Pytorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![LangChain](https://img.shields.io/badge/-LangChain-0A0A0A?logo=chainlink&logoColor=white)
 ![Streamlit](https://skillicons.dev/icons?i=streamlit)  
 
 
@@ -47,8 +47,8 @@ _More AI, ML, and data-driven projects available on my GitHub._
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab-jameel&show_icons=true&theme=tokyonight) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab-jameel&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab-jameel&show_icons=true&theme=tokyonight) &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-jameel&layout=compact&theme=tokyonight" height="195">
 
 ---
 
