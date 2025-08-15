@@ -48,7 +48,7 @@ _More AI, ML, and data-driven projects available on my GitHub._
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab-jameel&show_icons=true&theme=tokyonight) &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-jameel&layout=compact&theme=tokyonight" height="500">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab-jameel&theme=tokyonight&card_width=350)
 
 ---
 
