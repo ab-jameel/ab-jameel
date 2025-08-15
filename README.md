@@ -9,7 +9,7 @@
 - 📍 Based in Türkiye  
 - 🔍 Interested in **AI-powered applications**, **computer vision**, and **generative AI**  
 - 🌱 Currently exploring **LangChain**, **LLMs**, and **MLOps**  
-- 🛠 Skilled in **Python**, **PyTorch**, **TensorFlow**, **AWS**, **LangChain**, **Streamlit**  
+- 🛠 Skilled in **Python**, **PyTorch**, **TensorFlow**, **AWS**, **LangChain**, and **Streamlit**  
 - 📫 Reach me at **ab.aljameel@hotmail.com**
 
 ---
