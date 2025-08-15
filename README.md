@@ -16,17 +16,20 @@
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**  
+**Languages & Frameworks**
+
 ![Python](https://skillicons.dev/icons?i=python) 
 ![Pytorch](https://skillicons.dev/icons?i=pytorch) 
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) 
 ![LangChain](https://img.shields.io/badge/-LangChain-0A0A0A?logo=chainlink&logoColor=white) 
 ![Streamlit](https://skillicons.dev/icons?i=streamlit)  
 
-**Cloud & Tools**  
-![AWS](https://skillicons.dev/icons?i=aws)  
-![Git](https://skillicons.dev/icons?i=git)  
-![VSCode](https://skillicons.dev/icons?i=vscode)  
+
+**Cloud & Tools**
+
+![AWS](https://skillicons.dev/icons?i=aws) 
+![Git](https://skillicons.dev/icons?i=git) 
+![VSCode](https://skillicons.dev/icons?i=vscode) 
 
 ---
 
