@@ -47,15 +47,14 @@ _More AI, ML, and data-driven projects available on my GitHub._
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab-jameel&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab-jameel&show_icons=true&theme=tokyonight) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab-jameel&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/YOUR-LINK)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ab-jameel)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdullah-gamil) 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ab-jameel) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:ab.aljameel@hotmail.com)
 
 ---
